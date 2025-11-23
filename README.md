@@ -1,6 +1,4 @@
 <div align="center">
-  <img src="img/meagain.jpg" alt="Ксения Андреева" width="160" style="border-radius: 50%; margin-bottom: 20px;">
-
   <h1>Ксения Андреева</h1>
   <h3>Junior Manual QA Engineer</h3>
 </div>
