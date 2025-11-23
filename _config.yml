@@ -1,3 +1,7 @@
 remote_theme: pages-themes/midnight@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
+
+title: Ксения Андреева — Junior Manual QA Engineer
+tagline: Тестирую, нахожу баги, учусь автоматизировать
+description: Составила 30+ тест‑кейсов, тестировала API в Postman, проводила нагрузочные тесты в JMeter. Изучаю Java, чтобы перейти к автоматизации. Открыта к стажировкам и проектам.
