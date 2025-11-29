@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Ксения Андреева</h1>
-  <h3>Junior Manual QA Engineer</h3>
+  <h3>Инженер по ручному тестированию</h3>
 </div>
 
 ## Обо мне:
@@ -28,3 +28,4 @@
 
 *   **Email:** [ksenia.chaek@yandex.ru](mailto:ksenia.chaek@yandex.ru)
 *   **Telegram:** [@milkdrinkforest](https://t.me/milkdrinkforest)
+*   **Linkedin:** [https://www.linkedin.com/in/chaekzakipaet/](https://www.linkedin.com/in/chaekzakipaet)
