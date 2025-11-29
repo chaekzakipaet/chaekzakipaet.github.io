@@ -16,7 +16,7 @@
 - **Документация**: тест-кейсы, чек-листы, баг-репорты
 - **Инструменты**: Jira, Postman, JMeter, Chrome DevTools, Git, GitHub
 - **Технологии**: REST API, HTTP-методы и статус-коды, JSON, SQL (базовый)
-- **Метологии**:  SDLC, Agile (Scrum, Kanban), Waterfall
+- **Методологии**:  SDLC, Agile (Scrum, Kanban), Waterfall
 - **Изучаю**: Java (цель — автоматизация тестирования)
 
 ## Курсы
