@@ -3,5 +3,5 @@ plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 
 title: Kseniia Andreeva — Junior QA Engineer
-tagline: Тестирую, нахожу баги, практикуюсь в автоматизации
-description: Составила 30+ тест‑кейсов, тестировала API в Postman, проводила нагрузочные тесты в JMeter. Изучаю Python, чтобы перейти к автоматизации. Открыта к стажировкам и проектам.
+tagline: I am interested in developing in the direction of test automation (currently self-studying automation tools; have experience writing UI tests using Playwright). Open to continuous learning and adopting new tools in my work.
+description: Открыта к стажировкам и проектам.
