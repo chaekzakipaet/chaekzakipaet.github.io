@@ -22,8 +22,8 @@ I am interested in developing in the direction of test automation (currently sel
 
 # Education / Courses
 
-"Universe of Testing, or How to Become a QA Engineer" (2025)
-"Manual QA Engineer" (2026)
+* "Universe of Testing, or How to Become a QA Engineer" (2025)
+* "Manual QA Engineer" (2026)
 
 # Обо мне
 
